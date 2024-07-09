@@ -1,0 +1,100 @@
+
+#get-started
+{
+    display: inline;
+    text-align: center;
+    border-style: groove;
+    border-color: white;
+    border-radius: 20px;
+    padding: 13px;
+    margin-left: 45%;
+    text-decoration: none;
+    padding-left: 30px;
+    padding-right: 30px;
+    color: white;
+
+    
+
+
+}
+
+.main{
+    background-image: url(image6.png);
+    background-position: center;
+    background-repeat: repeat;
+    height: 700px;
+    
+
+
+    
+}
+#main
+{
+    
+color: white;
+
+}
+
+.parta
+{
+    margin-top: 200px;
+}
+
+
+#powerful
+{
+    text-align: center;
+    margin-bottom: 30px; 
+    font-size: 55px;
+    font-weight: bolder;
+}
+
+.login
+{
+    text-decoration: none;
+    color: white;
+    margin-left: 30px;
+    margin-top: 20px;
+    border-radius: 20px;
+    border-style: groove;
+    border-color: white;
+
+    padding-right: 30px;
+    padding-left: 30px;
+    display: inline;
+}
+
+li:hover
+{
+    
+    
+    border-top: 5px;
+    border-style: solid;
+    border-bottom: hidden;
+    border-left: hidden;
+    border-right: hidden;
+    padding: 10px;
+    border-color: white;
+    padding-top: 10px;
+}
+
+#cont2
+{
+    color: rgb(4, 4, 103);
+    font-size:x-large;
+    font-weight: 700;
+    
+    
+}
+
+#button
+{
+
+
+    display: inline;
+    color: white;
+    
+}
+
+
+
